@@ -1,0 +1,30 @@
+﻿---
+ID: "9af0eb4d-2ec8-57b2-afde-d28d509dd6f7"
+Parent: "2a7fc7fe-8fa8-5b35-8596-bb7269a535ab"
+Template: "ac821c46-bcb4-509a-9e23-3cf0c8881bdc"
+Path: /sitecore/content/scnextjs/Components/Styleguide/ContentReuse/LoremIpsumContentBlock
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Lorem Ipsum Dolor Sit Amet
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000925Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00f2124e-e9a2-475e-9c0b-99324f4d3a6e"
+    - ID: "ba917657-953b-5fc0-9506-5d5e679bda09"
+      Hint: content
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque felis mauris, pretium id neque vitae, vulputate pellentesque tortor. Mauris hendrerit dolor et ipsum lobortis bibendum non finibus neque. Morbi volutpat aliquam magna id posuere. Duis commodo cursus dui, nec interdum velit congue nec. Aliquam erat volutpat. Aliquam facilisis, sapien quis fringilla tincidunt, magna nulla feugiat neque, a consectetur arcu orci eu augue.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000925Z

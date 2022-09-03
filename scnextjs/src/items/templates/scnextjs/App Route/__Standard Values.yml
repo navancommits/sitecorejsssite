@@ -1,0 +1,93 @@
+﻿---
+ID: "1c56067f-b1b1-5da3-8e0d-bc2e882a5732"
+Parent: "b379b8d5-2749-5c26-9f80-81a297da14c2"
+Template: "b379b8d5-2749-5c26-9f80-81a297da14c2"
+Path: /sitecore/templates/Project/scnextjs/App Route/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{B379B8D5-2749-5C26-9F80-81A297DA14C2}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{F8D35B1C-3D6E-5023-B8C8-8BA69978AC34}">
+        <p
+          uid="{F82D2DA3-1212-5789-9F91-F17E4A3D54CC}"
+          key="jss-header"
+          md="{99FF1D42-2646-5F66-8FEE-2771AD509C97}" />
+        <p
+          uid="{CFBA6D2A-A92F-59D7-8405-268D7A3881FB}"
+          key="jss-main"
+          md="{75C607D7-B460-53DF-B220-E20A88916B36}" />
+        <p
+          uid="{7671EE7A-B751-5EB6-8519-F997CB1CEDD5}"
+          key="jss-tabs"
+          md="{010DCD87-D327-5A36-B5B0-08352EBBA2B8}" />
+        <p
+          uid="{698CB137-EAED-5BDB-BC9B-D1ED6422310B}"
+          key="jss-styleguide-layout"
+          md="{B43106AE-9196-5189-8382-BD6DE8128F66}" />
+        <p
+          uid="{F81DECB2-4FB9-5EA9-8DC0-49380296F53B}"
+          key="jss-styleguide-section"
+          md="{2D914B38-BA13-5D04-A7B0-C43EF98030AE}" />
+        <p
+          uid="{FF2F9E40-DB4F-5A85-8CEF-9502CE5CA620}"
+          key="jss-graphql-layout"
+          md="{67C62E91-3222-56A1-8580-8D6483A5AE57}" />
+        <p
+          uid="{27ED5374-E96F-59DF-A55A-BA174D2F03DD}"
+          key="jss-reuse-example"
+          md="{0C8C84F7-9D54-59AA-873A-2C95A3841941}" />
+      </d>
+    </r>
+Languages:
+- Language: "da-DK"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000953Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "deef1e90-9428-4161-b11d-ed75179ec0d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000953Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000848Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36e04209-5934-494a-8e47-1e415b9edc8a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000924Z

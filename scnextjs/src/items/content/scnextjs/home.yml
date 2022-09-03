@@ -1,0 +1,69 @@
+﻿---
+ID: "9ca63a42-1708-5b0b-91bf-d23980fb2993"
+Parent: "e416767e-7b9a-5884-b713-800c36c65201"
+Template: "b379b8d5-2749-5c26-9f80-81a297da14c2"
+Path: /sitecore/content/scnextjs/home
+Languages:
+- Language: "da-DK"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000954Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35169655-7717-4cfb-8ce7-90872cd37d25"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000954Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{2C4A53CC-9DA8-5F51-9D79-6EE2FC671B2D}"
+              p:after="p[@uid='{27ED5374-E96F-59DF-A55A-BA174D2F03DD}']"
+              s:rname="ContentBlock"
+              s:ds="{2B3CF6DD-6B91-52F3-A4BB-07E34850FF52}"
+              s:id="{9B1CEDE7-D009-597F-945D-C161B9E4146B}"
+              s:par=""
+              s:ph="/jss-main" />
+            <r
+              uid="{1EC12ED4-7655-4D02-9664-6D294A92D0E8}"
+              p:after="*[1=2]"
+              s:id="{B7CAEAC6-0923-5D32-8CE5-683DBD2C7959}"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000926Z
+    - ID: "3a8d66be-b535-5554-9ab6-9d371b0966d5"
+      Hint: pageTitle
+      Value: Welcome to Sitecore JSS
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec7aed2b-e873-4651-aded-af8b21c9ae48"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220812T040725Z

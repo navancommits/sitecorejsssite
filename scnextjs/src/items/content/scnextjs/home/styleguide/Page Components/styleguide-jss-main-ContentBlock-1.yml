@@ -1,0 +1,77 @@
+﻿---
+ID: "9ba55965-bfa9-5aef-9d83-0101633d6cf1"
+Parent: "8ed150aa-17b1-56d1-a15f-5ada0c6b7cab"
+Template: "ac821c46-bcb4-509a-9e23-3cf0c8881bdc"
+Path: "/sitecore/content/scnextjs/home/styleguide/Page Components/styleguide-jss-main-ContentBlock-1"
+Languages:
+- Language: "da-DK"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000954Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "54a22e19-5dfc-572f-a7b9-fe3399f5f890"
+      Hint: heading
+      Value: JSS Styleguide
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3b7aba3-f891-4b0e-8641-c08f8bc07f9c"
+    - ID: "ba917657-953b-5fc0-9506-5d5e679bda09"
+      Hint: content
+      Value: |
+        <div class="alert alert-primary">
+          This is a partial da-DK translation of the JSS Styleguide to demonstrate translation functionality.
+          Use the <a href="/en/styleguide">English version</a> for full content.
+        </div>
+        <p>The content and layout of this page is defined in <code>/data/routes/styleguide/da-DK.yml</code></p>
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000955Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000930Z
+    - ID: "54a22e19-5dfc-572f-a7b9-fe3399f5f890"
+      Hint: heading
+      Value: JSS Styleguide
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6ee7437-c161-46b2-bca9-399f7fa2a7b7"
+    - ID: "ba917657-953b-5fc0-9506-5d5e679bda09"
+      Hint: content
+      Value: |
+        <p>This is a live set of examples of how to use JSS. For more information on using JSS, please see <a href="https://jss.sitecore.com" target="_blank" rel="noopener noreferrer">the documentation</a>.</p>
+        <p>The content and layout of this page is defined in <code>/data/routes/styleguide/en.yml</code></p>
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000930Z

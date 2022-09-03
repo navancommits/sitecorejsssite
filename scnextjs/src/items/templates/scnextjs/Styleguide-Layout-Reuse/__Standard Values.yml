@@ -1,0 +1,31 @@
+﻿---
+ID: "bde283db-ca5a-5f3f-9c3c-25154ae8398e"
+Parent: "b768f40f-8bb5-5020-82e5-69da572e72d9"
+Template: "b768f40f-8bb5-5020-82e5-69da572e72d9"
+Path: "/sitecore/templates/Project/scnextjs/Styleguide-Layout-Reuse/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000907Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c17b197-34e6-4112-83d1-c7ab73ce8c05"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000907Z

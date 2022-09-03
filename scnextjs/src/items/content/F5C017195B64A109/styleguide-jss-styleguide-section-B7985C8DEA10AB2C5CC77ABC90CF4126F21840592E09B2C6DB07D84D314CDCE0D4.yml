@@ -1,0 +1,52 @@
+﻿---
+ID: "98497f1e-22d6-5887-adce-c567fe42daaf"
+Parent: "8ed150aa-17b1-56d1-a15f-5ada0c6b7cab"
+Template: "877fa759-a7cd-5b53-8c08-79e8b65417f6"
+Path: "/sitecore/content/scnextjs/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0af72c29-47f9-5c80-a7c5-26d77f334bd2"
+      Hint: localContentList
+      Value: |
+        {F10481DF-CAD2-5D98-816D-A34A88B324F3}
+        {0DAD32E8-ED64-5D46-BFB0-F272A4276BC3}
+    - ID: "20c6783b-130f-58d7-b4cc-7683f5d3e911"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000933Z
+    - ID: "6e8cf812-a7e3-5654-acb7-7588947abd56"
+      Hint: heading
+      Value: Content List
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0200ecd-a835-425d-9f37-e87bff5fc47e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000934Z
+    - ID: "f8a4b9d9-c712-5b40-bc6e-adc2eddc8a32"
+      Hint: sharedContentList
+      Value: |
+        {65C69A25-8E5B-5D2F-9D14-EA0D892803DD}
+        {571D2CCE-4972-58F8-8A7A-86BF22D553B5}

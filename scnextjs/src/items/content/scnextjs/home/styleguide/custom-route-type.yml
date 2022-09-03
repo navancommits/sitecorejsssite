@@ -1,0 +1,51 @@
+﻿---
+ID: "40f5a59d-fb3a-51c7-81d3-b1396acf83f3"
+Parent: "fca4e1b4-59b4-5070-9290-03c554f2303d"
+Template: "c4c3b2ba-e773-5465-9b88-4db896ed7db8"
+Path: "/sitecore/content/scnextjs/home/styleguide/custom-route-type"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03832044-777b-510b-b099-f1e63f8efc8f"
+      Hint: headline
+      Value: "A Treatise on Route-Level Fields in JSS"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{621128A6-CC4D-5287-8ED6-E4A89A7DBBDB}"
+              p:after="*[1=2]"
+              s:rname="Styleguide-CustomRouteType"
+              s:id="{669AB4E6-54A2-5D66-86BC-11FD79E64163}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "113d244e-4294-500f-8da2-875b91f859c6"
+      Hint: author
+      Value: Myrtle
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000937Z
+    - ID: "3a8d66be-b535-5554-9ab6-9d371b0966d5"
+      Hint: pageTitle
+      Value: Custom Route Type | Sitecore JSS
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c646fc8-95e7-494c-8032-cdac3150ea45"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d4cf3e7f-c385-5c20-a71e-4b6c98ea1fef"
+      Hint: content
+      Value: "<p>Custom route type fields are good for things like articles, where you may wish to have a filter UI on content fields, such as author or category. Route level fields are easy to query against, whereas component-level fields are not because it's possible to remove a component from a route. Note that route level fields <em>cannot be personalized</em> because you cannot conditionally swap out the route item for a different content item.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000937Z

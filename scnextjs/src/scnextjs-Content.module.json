@@ -1,0 +1,16 @@
+{
+    "namespace": "scnextjs-Content",
+    "references": [ "scnextjs" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/scnextjs"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/scnextjs"
+            }
+        ]
+    }
+}

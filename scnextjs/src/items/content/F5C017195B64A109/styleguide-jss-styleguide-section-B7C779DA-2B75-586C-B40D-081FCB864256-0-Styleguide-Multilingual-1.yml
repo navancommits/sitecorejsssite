@@ -1,0 +1,41 @@
+﻿---
+ID: "9fa6082a-b9ea-54ab-b78f-6d7c588be952"
+Parent: "8ed150aa-17b1-56d1-a15f-5ada0c6b7cab"
+Template: "849838f9-d966-5c1b-ba51-e5c3926d4799"
+Path: "/sitecore/content/scnextjs/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7C779DA-2B75-586C-B40D-081FCB864256-0-Styleguide-Multilingual-1"
+Languages:
+- Language: "da-DK"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Multilingual-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000955Z
+    - ID: "2dc62ba6-9712-56f3-bc73-34ba74395d68"
+      Hint: sample
+      Value: "This text can be translated in da-DK.yml"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "6e8cf812-a7e3-5654-acb7-7588947abd56"
+      Hint: heading
+      Value: Translation Patterns
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d24dd37e-d146-442f-8756-7b982a87e724"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000955Z

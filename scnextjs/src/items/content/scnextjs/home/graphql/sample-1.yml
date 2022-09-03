@@ -1,0 +1,43 @@
+﻿---
+ID: "de32bbb3-8ee7-59e0-b961-9e311f267bdd"
+Parent: "88761f31-61fe-5b35-9dc4-8d2a77ad06df"
+Template: "b379b8d5-2749-5c26-9f80-81a297da14c2"
+Path: "/sitecore/content/scnextjs/home/graphql/sample-1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9157CC8C-5760-5114-9F2D-93CBE39B30DC}"
+              p:after="*[1=2]"
+              s:rname="ContentBlock"
+              s:ds="{5E19D37E-F079-53D6-8D94-F646BC6E5C42}"
+              s:id="{9B1CEDE7-D009-597F-945D-C161B9E4146B}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T000928Z
+    - ID: "3a8d66be-b535-5554-9ab6-9d371b0966d5"
+      Hint: pageTitle
+      Value: Sample 1 Page Title
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "385050e6-d0af-43c9-b0cf-994122fb96bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220811T000929Z

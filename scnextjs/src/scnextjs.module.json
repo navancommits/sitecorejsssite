@@ -1,0 +1,24 @@
+{
+    "namespace": "scnextjs",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/scnextjs"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/scnextjs"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/scnextjs"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/scnextjs"
+            }
+        ]
+    }
+}

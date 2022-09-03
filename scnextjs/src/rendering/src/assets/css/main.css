@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* 1. app.css */
+
+@import './app.css';
+
+/* 2. mydetails.css */
+
+@import './components/mydetails/mydetails.css';
