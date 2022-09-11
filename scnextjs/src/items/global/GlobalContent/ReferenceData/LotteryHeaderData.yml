@@ -1,0 +1,43 @@
+﻿---
+ID: "ea63a32e-0a40-4bc8-9b89-48c026f4702f"
+Parent: "ac188805-7114-48c0-84d8-958b25adf2ff"
+Template: "18e72d6d-8efe-4cd6-8f58-f7eeb0781d30"
+Path: /sitecore/content/GlobalContent/ReferenceData/LotteryHeaderData
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220910T090007Z
+    - ID: "2b9d2b07-4f9a-41a9-ab51-0c328c2fdbfd"
+      Hint: ReferenceDataLink
+      Value: "{BBE1EB21-2C7A-4F36-87F6-A9A54AE50928}"
+    - ID: "4cc79b9a-cd04-47ec-959d-54df214b5018"
+      Hint: Title
+      Value: My Test Title
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5c9bbfa8-9fbc-4cc6-a894-d46f766bc3c6"
+      Hint: OverrideList
+      Value: "{998FE8A5-BDE6-49EA-8C29-F40846F35F2B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47a12f17-3fcc-416d-9c05-e6bdda761c27"
+    - ID: "b047d778-2d43-4d2d-bbb6-39e5f2bde9c8"
+      Hint: LotteryNo
+      Value: My Test Lottery No.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220910T094808Z

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+    <AssemblyName>RefDataIntegration</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+    <PackageReference Include="Microsoft.Extensions.Http" />
+    <PackageReference Include="Sitecore.DependencyInjection" />
+    <PackageReference Include="Sitecore.Kernel" />
+    <PackageReference Include="Sitecore.LayoutService" />
+    <PackageReference Include="Sitecore.Services.Client" />
+    <PackageReference Include="System.Text.Json" />
+  </ItemGroup>
+
+</Project>

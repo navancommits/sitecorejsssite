@@ -1,0 +1,56 @@
+﻿---
+ID: "2869efe3-5a6b-43b2-b493-734fdfb51539"
+Parent: "9ca63a42-1708-5b0b-91bf-d23980fb2993"
+Template: "b379b8d5-2749-5c26-9f80-81a297da14c2"
+Path: /sitecore/content/scnextjs/home/LotteryPage
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5AAE392A-1C16-4A65-AAB6-2744E76D68E3}"
+              p:after="p[@uid='{27ED5374-E96F-59DF-A55A-BA174D2F03DD}']"
+              s:ds="{BBE1EB21-2C7A-4F36-87F6-A9A54AE50928}"
+              s:id="{540A935E-DA9F-482D-902C-7D371DDA534B}"
+              s:par=""
+              s:ph="jss-title"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{CDCC5050-EA8D-4B74-A64F-6EB03F8D59F3}"
+              p:after="*[1=2]"
+              s:ds="{EA63A32E-0A40-4BC8-9B89-48C026F4702F}"
+              s:id="{E6251B16-E873-429D-8AAA-199D2AE8F3F1}"
+              s:par=""
+              s:ph="jss-title"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220907T100125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fed6cd9-17ea-41ac-b2ea-281c712cf6bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220911T065313Z

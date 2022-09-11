@@ -1,0 +1,43 @@
+﻿---
+ID: "bbe1eb21-2c7a-4f36-87f6-a9a54ae50928"
+Parent: "ac188805-7114-48c0-84d8-958b25adf2ff"
+Template: "b0a521da-e269-447c-b500-1e753e01c80a"
+Path: /sitecore/content/GlobalContent/ReferenceData/LotteryInfo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06dd81bf-eff4-44d9-b533-cdc203b7582e"
+      Hint: LotteryDrawDate
+      Value: 20220907T093500Z
+    - ID: "18a46055-17af-4888-92c6-deb0f14f5e7f"
+      Hint: LotteryDescription
+      Value: This is the best lottery in the market
+    - ID: "2411f3fd-bb85-43c1-9d56-2d2643b4029e"
+      Hint: LotteryTitle
+      Value: Best Lottery
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220907T093521Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8024560-0395-482e-90ef-f3407ad97431"
+    - ID: "8d5e678b-e0d1-4730-b2f5-3e6b55c2d881"
+      Hint: LotteryId
+      Value: 111
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220907T093555Z

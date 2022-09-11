@@ -12,8 +12,14 @@
     <PackageReference Update="Sitecore.Kernel" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.ContentSearch" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.ContentSearch.Linq" Version="$(PlatformVersion)" />
-    <PackageReference Update="Sitecore.LayoutService" Version="8.0.0" />
+    <PackageReference Update="Sitecore.LayoutService" Version="8.1.0" />
     <PackageReference Update="Sitecore.Assemblies.Platform" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.Assemblies.SitecoreHeadlessServicesServer" Version="20.0.0" />
+    <PackageReference Update="FluentValidation" Version="11.2.0" />
+    <PackageReference Update="FluentValidation.DependencyInjectionExtensions" Version="11.2.0" />
+    <PackageReference Update="Microsoft.Extensions.Http" Version="3.1.14" />
+    <PackageReference Update="Sitecore.DependencyInjection" Version="1.0.4" />
+    <PackageReference Update="Sitecore.Services.Client" Version="10.2.0" />
+    <PackageReference Update="System.Text.Json" Version="6.0.4" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,37 @@
+﻿---
+ID: "5e30f4df-0150-4c0c-a8a6-7dd263af0672"
+Parent: "ea63a32e-0a40-4bc8-9b89-48c026f4702f"
+Template: "4062576b-06f9-403d-a3bf-abd341b6ea52"
+Path: /sitecore/content/GlobalContent/ReferenceData/LotteryHeaderData/TitleOverrideDetails
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1919d2c4-73cb-475b-a2d6-115c2e858f22"
+      Hint: FieldtoOverride
+      Value: "{4CC79B9A-CD04-47EC-959D-54DF214B5018}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220910T094737Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "874a147f-237c-41a5-8461-674d9f9500a5"
+      Hint: OverrideValue
+      Value: "{2411F3FD-BB85-43C1-9D56-2D2643B4029E}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4118427e-505d-4a4c-84bd-0188e4e84911"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220910T094754Z

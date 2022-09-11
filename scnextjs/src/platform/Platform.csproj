@@ -73,6 +73,12 @@
     <None Include="README.md" />
     <None Include="web.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReferenceData\ReferenceDataIntegration.csproj">
+      <Project>{60261369-6668-40db-a1f1-9811dc2f7003}</Project>
+      <Name>ReferenceDataIntegration</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

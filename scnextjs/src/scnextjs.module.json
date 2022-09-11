@@ -16,8 +16,12 @@
                 "path": "/sitecore/layout/Renderings/Project/scnextjs"
             },
             {
-                "name": "templates",
-                "path": "/sitecore/templates/Project/scnextjs"
+                "name": "projtemplates",
+                "path": "/sitecore/templates/Project"
+            },
+            {
+                "name": "foundationtemplates",
+                "path": "/sitecore/templates/Foundation/ExternalData"
             }
         ]
     }

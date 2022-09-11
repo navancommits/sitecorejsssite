@@ -8,8 +8,16 @@
                 "path": "/sitecore/content/scnextjs"
             },
             {
+                "name": "global",
+                "path": "/sitecore/content/GlobalContent"
+            },
+            {
                 "name": "media",
                 "path": "/sitecore/media library/scnextjs"
+            },
+            {
+                "name": "foundationcontentresolver",
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Foundation"
             }
         ]
     }
